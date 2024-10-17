@@ -4,6 +4,7 @@
 - Hello i am Dorin.
 - This is the beta testing.
 - Hello I'm Suzzie{wanjicode}
+- Hii I am delilah :)
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
 - Hi, I'm [Ruan Carlos](https://github.com/Ruan-CRC)
